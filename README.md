@@ -1,2 +1,2 @@
 # WishToken
-Comming Soon!
+Coming Soon!
