@@ -1,2 +1,1 @@
-# cryptodoggies-base
 # WishToken
